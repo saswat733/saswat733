@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on [AirBnB](https://github.com/saswat733/AirBnb-mern.git)
 
