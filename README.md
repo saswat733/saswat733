@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswat733&label=Profile%20views&color=0e75b6&style=flat" alt="saswat733" /> </p>
 
-- 🔭 I’m currently working on [AirBnB](https://github.com/saswat733/AirBnb-mern.git)
+- 🔭 I’m currently working on [ChatiFy](https://github.com/saswat733/chat-app.git)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **react, NodeJs, Javascript**
 
