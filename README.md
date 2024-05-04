@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswat733&label=Profile%20views&color=0e75b6&style=flat" alt="saswat733" /> </p>
 
-- 🔭 I’m currently working on [ChatiFy](https://github.com/saswat733/chat-app.git)
+- 🔭 I’m currently working on [Anonymous-Message](https://github.com/saswat733/chat-app.git)
 
 - 🌱 I’m currently learning **MERN stack**
 
